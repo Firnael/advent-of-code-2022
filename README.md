@@ -2,10 +2,10 @@
 
 ```sh
 #Run each day with 
-python days/X/main.py
+python -m days.X.main
 
 # Use `example` arg to run with example data
-python days/X/main.py example
+python -m days.X.main example
 ```
 
 ## Days
