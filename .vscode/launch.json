@@ -11,6 +11,7 @@
             "program": "${file}",
             "args": ["example"],
             "console": "integratedTerminal",
+            "env": { "PYTHONPATH": "${workspaceRoot}"},
             "justMyCode": true
         }
     ]

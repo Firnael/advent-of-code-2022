@@ -1,5 +1,6 @@
+# Day 1
 from utils.file_reader import read 
-data, example = read(__file__)
+data = read(__file__)
 
 # Part one
 elves_calories = []

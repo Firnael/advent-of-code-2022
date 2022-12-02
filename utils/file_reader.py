@@ -9,4 +9,4 @@ def read(filePath):
         [data.append(line.strip()) for line in f.readlines()]
     if example:
         print(f'Data {data}')
-    return data, example
+    return data
