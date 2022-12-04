@@ -5,11 +5,30 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Run",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": { "PYTHONPATH": "${workspaceRoot}"},
+            "justMyCode": true
+        },
+        {
             "name": "Run with example",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "args": ["example"],
+            "console": "integratedTerminal",
+            "env": { "PYTHONPATH": "${workspaceRoot}"},
+            "justMyCode": true
+        },
+        {
+            "name": "Run with test",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["test"],
             "console": "integratedTerminal",
             "env": { "PYTHONPATH": "${workspaceRoot}"},
             "justMyCode": true
