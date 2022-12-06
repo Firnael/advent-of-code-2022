@@ -1,6 +1,7 @@
 # Advent of Code 2K22 🎅🦌🎄
 
 ![banner](banner.webp)
+*Banner from https://blog.pythondiscord.com/advent-of-code-2020/*
 
 ```sh
 # Init new day with
@@ -20,5 +21,4 @@ python -m days.X.main example
 - [3 - Rucksack Reorganisation](https://adventofcode.com/2022/day/3) - [code](/days/3/main.py)
 - [4 - Camp Cleanup](https://adventofcode.com/2022/day/4) - [code](/days/4/main.py)
 - [5 - Supply Stacks](https://adventofcode.com/2022/day/5) - [code](/days/5/main.py)
-
-*Banner from https://blog.pythondiscord.com/advent-of-code-2020/*
+- [6 - Tuning Trouble](https://adventofcode.com/2022/day/6) - [code](/days/6/main.py)
