@@ -22,3 +22,4 @@ python -m days.X.main example
 - [4 - Camp Cleanup](https://adventofcode.com/2022/day/4) - [code](/days/4/main.py)
 - [5 - Supply Stacks](https://adventofcode.com/2022/day/5) - [code](/days/5/main.py)
 - [6 - Tuning Trouble](https://adventofcode.com/2022/day/6) - [code](/days/6/main.py)
+- [7 - No Space Left On Device](https://adventofcode.com/2022/day/7) - [code](/days/7/main.py)
