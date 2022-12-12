@@ -2,11 +2,6 @@
 from utils.file_reader import read
 data = read(__file__)
 
-# for debug
-def pretty_print(grid):
-    for line in grid:
-        print(line)
-
 # for P1
 def check_visibility(index, values):
     value = values[index]
